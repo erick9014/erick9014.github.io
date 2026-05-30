@@ -160,7 +160,6 @@ a {
 }
 
 .avatar {
-  align-items: center;
   background:
     linear-gradient(var(--bg), var(--bg)) padding-box,
     linear-gradient(135deg, var(--blue), var(--paper)) border-box;
@@ -169,12 +168,10 @@ a {
   box-shadow:
     0 0 40px rgba(74, 168, 255, 0.28),
     inset 0 0 0 1px rgba(248, 247, 239, 0.12);
-  color: var(--blue);
-  display: flex;
-  font-size: 4.3rem;
-  font-weight: 950;
+  display: block;
   height: 120px;
-  justify-content: center;
+  object-fit: cover;
+  object-position: center;
   width: 120px;
 }
 
@@ -492,7 +489,6 @@ h3 {
   }
 
   .avatar {
-    font-size: 3.2rem;
     height: 92px;
     width: 92px;
   }
@@ -559,7 +555,6 @@ h3 {
 
   .avatar {
     border-width: 3px;
-    font-size: 2.7rem;
     height: 78px;
     width: 78px;
   }

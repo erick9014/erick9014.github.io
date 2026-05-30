@@ -16,6 +16,8 @@ https://erick9014.github.io/
 - `index.html`: estructura de la página.
 - `styles.css`: diseño responsive y estilos visuales.
 - `script.js`: año automático e iconos.
+- `assets/profile-erick.png`: foto pública optimizada.
+- `assets/profile-erick-avatar.png`: recorte cuadrado usado como avatar.
 - `assets/favicon.svg`: icono del sitio.
 
 ## Personalización rápida
@@ -25,4 +27,4 @@ Para hacerla más personal, actualiza en `index.html`:
 - Texto del perfil profesional.
 - Proyectos reales.
 - Enlaces de contacto.
-- Foto o avatar personal si quieres sustituir la inicial actual.
+- Proyectos y enlaces reales que quieras mostrar.
