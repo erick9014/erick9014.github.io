@@ -14,6 +14,10 @@ Este repositorio está pensado para publicarse como:
 https://erick9014.github.io/
 ```
 
+## Perfil profesional
+
+Página pública de [Ingeniero Heriberto Hernández Rodríguez](https://erick9014.github.io/), desarrollador full time de aplicaciones, web y soluciones digitales en La Habana, Cuba.
+
 ## Archivos principales
 
 - `index.html`: estructura de la página.
